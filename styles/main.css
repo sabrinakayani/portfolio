@@ -230,8 +230,11 @@ header{
     text-align: center;
     letter-spacing: 2px;
     color:#5A74E0;
-    font-size: 1vw;
+    font-size: 1.5vw;
   }
+.infoTxt.dribble{
+  margin-top:-6%;
+}
 
   .copyright{
     text-align: center;
