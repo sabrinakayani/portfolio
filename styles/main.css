@@ -367,3 +367,7 @@ a{
   }
 }
 
+@media (min-width: 768px){
+  .navbar{
+  z-index: -10;
+}}
