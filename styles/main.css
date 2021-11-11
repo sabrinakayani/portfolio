@@ -251,7 +251,19 @@ header{
     letter-spacing: 2px;
   }
 
-  
+  @media (max-width: 575px){
+    .imgPortrait{
+      top:20%;
+    }
+    .imgNuage{
+      top:70%;
+    }
+    .projetDesc{
+      font-size: 3vw;
+      color:#5A74E0;
+      letter-spacing: 2px;
+     }
+  }
 
   nav{
     float: right;
@@ -355,16 +367,3 @@ a{
   }
 }
 
-
-
-@media (max-width: 575px){
-  
-  .imgNuage{
-    top:70%;
-  }
-  .projetDesc{
-    font-size: 3vw;
-    color:#5A74E0;
-    letter-spacing: 2px;
-   }
-}
