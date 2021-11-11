@@ -357,11 +357,7 @@ a{
 
 @media (max-width: 435px){
   .imgPortrait{
-    position: absolute;
-    left: 50%;
-    bottom: 5%;
-    transform: translate(-50%, 0);
-    width: 1000px;
+   top: 60% !important;
 }
 }
 
