@@ -252,9 +252,7 @@ header{
   }
 
   @media (max-width: 575px){
-    .imgPortrait{
-      top:20%;
-    }
+   
     .imgNuage{
       top:70%;
     }
@@ -365,4 +363,14 @@ a{
     width: 35vw;
  
   }
+}
+
+@media (max-width: 435px){
+  .imgPortrait{
+    position: absolute;
+    left: 50%;
+    bottom: 5%;
+    transform: translate(-50%, 0);
+    width: 1000px;
+}
 }
