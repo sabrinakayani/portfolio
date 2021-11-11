@@ -355,16 +355,10 @@ a{
   }
 }
 
-@media (max-width: 435px){
-  .imgPortrait{
-   top: 60% !important;
-}
-}
+
 
 @media (max-width: 575px){
-  .imgPortrait{
-    top:20%;
-  }
+  
   .imgNuage{
     top:70%;
   }
