@@ -262,9 +262,12 @@ header{
       top:70%;
     }
     .projetDesc{
-      font-size: 3vw;
+      font-size: 3.5vw;
       color:#5A74E0;
       letter-spacing: 2px;
+     }
+     .projetTitre{
+       font-size: 4vw;
      }
   }
 
@@ -297,7 +300,7 @@ a{
 @media (max-width: 575px){
  
 .txtContact{
-  font-size: 3vw;;
+  font-size: 3.5vw;;
 }
   .infoTitre{
     font-size:2vw ;
@@ -309,7 +312,7 @@ a{
 
 @media (max-width: 575px){
   .txtAbout{
-    font-size: 3vw;;
+    font-size: 3.5vw;;
   }
   }
 
