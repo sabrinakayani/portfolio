@@ -387,8 +387,3 @@ a{
   }
 }
 
-@media (max-height: 740px){
-  .imgPortrait{
-    width: 600px;
-  }
-}
