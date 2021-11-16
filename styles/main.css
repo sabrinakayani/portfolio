@@ -9,7 +9,7 @@ body{
     left: 50%;
     bottom: 10%;
     transform: translate(-50%, 0);
-    width: 1000px;
+    width: 900px;
 }
 
 .imgNuage{
@@ -384,5 +384,11 @@ a{
   }
   .infoTxt.dribble{
     margin-top:-8%;
+  }
+}
+
+@media (max-height: 740px){
+  .imgPortrait{
+    width: 600px;
   }
 }
